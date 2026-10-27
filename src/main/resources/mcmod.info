@@ -1,0 +1,15 @@
+[
+  {
+    "modid": "carryon",
+    "name": "Carry On",
+    "description": "Pick up and carry blocks, tile entities and entities. Minecraft 1.7.10 backport.",
+    "version": "${modVersion}",
+    "mcversion": "${minecraftVersion}",
+    "url": "https://github.com/tschipp/CarryOn",
+    "authorList": ["Tschipp", "Purplicious_Cow"],
+    "credits": "Original Carry On authors; backported under LGPL-3.0.",
+    "logoFile": "logo.png",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
